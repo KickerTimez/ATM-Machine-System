@@ -28,7 +28,6 @@ void func()
     printf("\n Choose an option: ");
     scanf("%s",&choose);
 
-
     switch(choose)
     {
 
@@ -80,11 +79,16 @@ void func()
         break;
 
         case('4'):
-        system("clear");
+        system("exit");
         printf("GoodBye!\n Made By KickerTimez\n");
         break;
 
+        default:
+        func();
+        break;
+
     }
+
 
 
 }
