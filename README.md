@@ -24,7 +24,7 @@
 </div>  
 
 
-<h4 align="left"><strong> Was Mainly made as a learning project so have fun playing with it !</strong></h4>
+<h4 align="left"><strong> Was Mainly made for learning purpose project so have fun playing with it !</strong></h4>
 <h4 align="left"><strong>If you did like the project dont forget to give it a star⭐⭐⭐!</strong></43>
 <p align="left">
 </p>
